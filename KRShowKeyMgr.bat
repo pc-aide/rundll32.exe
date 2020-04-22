@@ -3,6 +3,7 @@
 ::& Warning: case sensitive
 ::&
 ::& credWiz.exe - Backup or Restore your stored user name & pwd
+::& Manage your credentials: 1) Web Credentials & 2) Windows Credentials
 ::& cmdKey /list - Currently stored credentials
 ::&--------------------------------------------------------------------------
 
