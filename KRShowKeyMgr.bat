@@ -7,6 +7,8 @@
 ::& Manage your credentials: 1) Web Credentials & 2) Windows Credentials
 ::&
 ::& cmdKey /list - Currently stored credentials
+::&
+::& mimikatz - extract plaintexts pwd, hash, PIN code & kerberos tickets from memory, etc
 ::&--------------------------------------------------------------------------
 
 REM
