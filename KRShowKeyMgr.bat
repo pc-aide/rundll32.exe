@@ -1,5 +1,5 @@
 ::&--------------------------------------------------------------------------
-::& Delete Cached Credentaqils - it sotres both cert data & also user pwd
+::& Delete Cached Credentials - it sotres both cert data & also user pwd
 ::& Warning: case sensitive
 ::&
 ::& https://imgur.com/0Y7be1o
